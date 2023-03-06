@@ -10,6 +10,7 @@ Với mong muốn giúp đỡ người dùng ghi chú lại những điều quan
 - Tìm kiếm ghi chú theo từ khóa
 
 #Updated:
+- Cho phép Coppy, Paste, Cut vào Input Note 
 - Ghim ghi chú quan trọng
 - Thay đổi ảnh nền 
 - Chọn, thay đổi màu sắc để dễ dàng phân loại ghi chú
