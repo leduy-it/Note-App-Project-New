@@ -19,7 +19,8 @@ Với mong muốn giúp đỡ người dùng ghi chú lại những điều quan
 Sao chép dự án và truy cập vào thư mục của nó.
 
 $ git clone https://github.com/leduy-it/CS526-CK-git
-$ cd Notes
+$ cd Note-App-Project-New
+
 Để bắt đầu, làm theo các bước dưới đây:
 
 Cài đặt các phụ thuộc
